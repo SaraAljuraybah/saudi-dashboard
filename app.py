@@ -336,7 +336,7 @@ with hdr_l:
         '<p class="exec-meta">'
         'Executive Analytics Dashboard &nbsp;&middot;&nbsp; '
         'Data Science Level 6 &nbsp;&middot;&nbsp; '
-        'Kingdom of Saudi Arabia &nbsp;&middot;&nbsp; 2024'
+        'Kingdom of Saudi Arabia &nbsp;&middot;&nbsp; 2026'
         '</p>',
         unsafe_allow_html=True,
     )
